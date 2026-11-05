@@ -1,0 +1,9 @@
+v1 rodada=1 consumidas=18908 perdidas=1092 duplicadas=0 travou=NAO
+v1 rodada=2 consumidas=19023 perdidas=977 duplicadas=0 travou=NAO
+v1 rodada=3 consumidas=19197 perdidas=803 duplicadas=0 travou=NAO
+v2 rodada=1 consumidas=20000 perdidas=0 duplicadas=0 travou=NAO
+v2 rodada=2 consumidas=20000 perdidas=0 duplicadas=0 travou=NAO
+v2 rodada=3 consumidas=20000 perdidas=0 duplicadas=0 travou=NAO
+v3 rodada=1 consumidas=0 perdidas=20000 duplicadas=0 travou=SIM
+v3 rodada=2 consumidas=0 perdidas=20000 duplicadas=0 travou=SIM
+v3 rodada=3 consumidas=0 perdidas=20000 duplicadas=0 travou=SIM
